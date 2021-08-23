@@ -1,0 +1,10 @@
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\bin\Debug\Celcius2Fahrenheit.exe.config
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\bin\Debug\Celcius2Fahrenheit.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\bin\Debug\Celcius2Fahrenheit.pdb
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.csprojAssemblyReference.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.Form1.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.Properties.Resources.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.csproj.GenerateResource.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\Celcius2Fahrenheit\Celcius2Fahrenheit\obj\Debug\Celcius2Fahrenheit.pdb
