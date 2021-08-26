@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kilomlaskuri", "Kilomlaskuri\Kilomlaskuri.csproj", "{ECF08BB6-C9FC-467C-8846-92389D81501E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF08BB6-C9FC-467C-8846-92389D81501E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF08BB6-C9FC-467C-8846-92389D81501E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF08BB6-C9FC-467C-8846-92389D81501E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF08BB6-C9FC-467C-8846-92389D81501E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F0D4DB-2483-4754-A328-A555C941F5F5}
+	EndGlobalSection
+EndGlobal
