@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KaksiNoppaa/1.0.0": {
+        "runtime": {
+          "KaksiNoppaa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KaksiNoppaa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
