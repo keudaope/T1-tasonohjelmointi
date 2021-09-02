@@ -8,3 +8,13 @@ C:\Users\jyrili\source\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\K
 C:\Users\jyrili\source\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.csproj.CoreCompileInputs.cache
 C:\Users\jyrili\source\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.exe
 C:\Users\jyrili\source\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\bin\Debug\Kilomlaskuri.exe.config
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\bin\Debug\Kilomlaskuri.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\bin\Debug\Kilomlaskuri.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.Form1.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.Properties.Resources.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kilomlaskuri\Kilomlaskuri\obj\Debug\Kilomlaskuri.pdb
