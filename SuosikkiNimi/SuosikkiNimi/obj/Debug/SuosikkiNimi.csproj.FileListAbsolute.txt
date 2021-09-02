@@ -1,0 +1,10 @@
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\SuosikkiNimi.exe.config
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\SuosikkiNimi.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\SuosikkiNimi.pdb
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.csprojAssemblyReference.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.SuosittuForm.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.Properties.Resources.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.csproj.GenerateResource.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\SuosikkiNimi.pdb
