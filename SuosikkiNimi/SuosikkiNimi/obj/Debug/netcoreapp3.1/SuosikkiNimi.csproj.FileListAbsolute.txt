@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.SuosikkiForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\bin\Debug\netcoreapp3.1\SuosikkiNimi.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\SuosikkiNimi\SuosikkiNimi\obj\Debug\netcoreapp3.1\SuosikkiNimi.genruntimeconfig.cache

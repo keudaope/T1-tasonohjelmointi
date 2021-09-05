@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.exe
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.deps.json
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.dll
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\bin\Debug\netcoreapp3.1\Ajastin.pdb
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.CountDownForm.resources
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.dll
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.pdb
+C:\Users\jyrilindroos\source\repos\Ajastin\Ajastin\obj\Debug\netcoreapp3.1\Ajastin.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\bin\Debug\netcoreapp3.1\PainoIndeksi.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.BMIForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\PainoIndeksi\PainoIndeksi\obj\Debug\netcoreapp3.1\PainoIndeksi.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.exe
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.deps.json
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.dll
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\bin\Debug\netcoreapp3.1\CarKulu.pdb
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.KustannusForm.resources
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.dll
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.pdb
+C:\Users\jyrilindroos\source\repos\CarKulu\CarKulu\obj\Debug\netcoreapp3.1\CarKulu.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.AsteMuunninForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\bin\Debug\netcoreapp3.1\AsteMuunnin.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\AsteMuunnin\AsteMuunnin\obj\Debug\netcoreapp3.1\AsteMuunnin.genruntimeconfig.cache

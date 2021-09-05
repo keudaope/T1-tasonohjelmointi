@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\netcoreapp3.1\Paivakirja.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.DiaryForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\netcoreapp3.1\Paivakirja.genruntimeconfig.cache

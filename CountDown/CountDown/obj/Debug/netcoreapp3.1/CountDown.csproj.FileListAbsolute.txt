@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\bin\Debug\netcoreapp3.1\CountDown.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.LaskuriForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CountDown\CountDown\obj\Debug\netcoreapp3.1\CountDown.genruntimeconfig.cache

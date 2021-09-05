@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\bin\Debug\netcoreapp3.1\Sekkari.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.SekkariForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Sekkari\Sekkari\obj\Debug\netcoreapp3.1\Sekkari.genruntimeconfig.cache

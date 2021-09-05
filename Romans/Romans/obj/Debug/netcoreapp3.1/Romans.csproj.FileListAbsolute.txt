@@ -1,0 +1,17 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\bin\Debug\netcoreapp3.1\Romans.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.RoomalaisiksiForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.Properties.Resources.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Romans\Romans\obj\Debug\netcoreapp3.1\Romans.genruntimeconfig.cache
