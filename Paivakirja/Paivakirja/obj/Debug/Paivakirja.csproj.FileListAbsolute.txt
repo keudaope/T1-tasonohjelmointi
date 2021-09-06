@@ -1,0 +1,10 @@
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe.config
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csprojAssemblyReference.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.PaivakirjaForm.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\jyrili\source\T1-tasonohjelmointi\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb

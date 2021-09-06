@@ -45,9 +45,59 @@ namespace Notepad
             }
         }
 
+        private void TallennaTiedosto()
+        {
+            try
+            {
+                if(!string.IsNullOrEmpty(TekstiTB.Text))
+                {
+                    saveFileDialog = new SaveFileDialog();
+                    saveFileDialog.Filter = "Teksti tiedosto (*.txt) | *.txt";
+                    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        File.WriteAllText(saveFileDialog.FileName, TekstiTB.Text);
+                    }
+                }
+                
+            }
+            catch (Exception ex)
+            {
+
+            }
+            finally
+            {
+
+            }
+        }
+
+        private void AvaaTiedosto()
+        {
+            try
+            {
+                openFileDialog = new OpenFileDialog();
+
+                if(openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    TekstiTB.Text = File.ReadAllText(openFileDialog.FileName);
+                    Text = openFileDialog.FileName; // Tiedostonnimi näkyviin yläpalkkiin
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Virhe avattaessa tiedostoa!");
+            }
+            finally
+            {
+                openFileDialog = null;
+            }
+        }
+
+
+
         private void MuistioForm_Load(object sender, EventArgs e)
         {
-
+            fontDialog = new FontDialog();
         }
 
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
@@ -57,27 +107,56 @@ namespace Notepad
 
         private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            AvaaTiedosto();
         }
 
         private void tallennaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            TallennaTiedosto();
         }
 
-        private void tallennaNimelläToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void lopetaToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            try
+            {
+                if (!string.IsNullOrEmpty(TekstiTB.Text))
+                {
+                    TallennaTiedosto();
+                }
+                else
+                {
+                    this.Close();
+                }
 
+            }
+            catch (Exception ex)
+            {
+
+            }
+            finally
+            {
+
+            }
         }
 
         private void kirjasinToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            try
+            {
+                if(fontDialog.ShowDialog() == DialogResult.OK)
+                {
+                    TekstiTB.Font = fontDialog.Font;
+                }
+            }
+            catch (Exception ex)
+            {
 
+            }
+            finally
+            {
+
+            }
         }
     }
 }

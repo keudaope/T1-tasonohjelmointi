@@ -34,7 +34,6 @@ namespace Notepad
             this.uusiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.avaaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tallennaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tallennaNimelläToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lopetaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.muotoiluToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kirjasinToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -59,7 +58,6 @@ namespace Notepad
             this.uusiToolStripMenuItem,
             this.avaaToolStripMenuItem,
             this.tallennaToolStripMenuItem,
-            this.tallennaNimelläToolStripMenuItem,
             this.lopetaToolStripMenuItem});
             this.tiedostoToolStripMenuItem.Name = "tiedostoToolStripMenuItem";
             this.tiedostoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
@@ -69,7 +67,7 @@ namespace Notepad
             // 
             this.uusiToolStripMenuItem.Name = "uusiToolStripMenuItem";
             this.uusiToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-            this.uusiToolStripMenuItem.Size = new System.Drawing.Size(240, 22);
+            this.uusiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.uusiToolStripMenuItem.Text = "Uusi";
             this.uusiToolStripMenuItem.Click += new System.EventHandler(this.uusiToolStripMenuItem_Click);
             // 
@@ -77,7 +75,7 @@ namespace Notepad
             // 
             this.avaaToolStripMenuItem.Name = "avaaToolStripMenuItem";
             this.avaaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
-            this.avaaToolStripMenuItem.Size = new System.Drawing.Size(240, 22);
+            this.avaaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.avaaToolStripMenuItem.Text = "Avaa";
             this.avaaToolStripMenuItem.Click += new System.EventHandler(this.avaaToolStripMenuItem_Click);
             // 
@@ -85,24 +83,15 @@ namespace Notepad
             // 
             this.tallennaToolStripMenuItem.Name = "tallennaToolStripMenuItem";
             this.tallennaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-            this.tallennaToolStripMenuItem.Size = new System.Drawing.Size(240, 22);
+            this.tallennaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tallennaToolStripMenuItem.Text = "Tallenna";
             this.tallennaToolStripMenuItem.Click += new System.EventHandler(this.tallennaToolStripMenuItem_Click);
-            // 
-            // tallennaNimelläToolStripMenuItem
-            // 
-            this.tallennaNimelläToolStripMenuItem.Name = "tallennaNimelläToolStripMenuItem";
-            this.tallennaNimelläToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
-            | System.Windows.Forms.Keys.S)));
-            this.tallennaNimelläToolStripMenuItem.Size = new System.Drawing.Size(240, 22);
-            this.tallennaNimelläToolStripMenuItem.Text = "Tallenna nimellä...";
-            this.tallennaNimelläToolStripMenuItem.Click += new System.EventHandler(this.tallennaNimelläToolStripMenuItem_Click);
             // 
             // lopetaToolStripMenuItem
             // 
             this.lopetaToolStripMenuItem.Name = "lopetaToolStripMenuItem";
             this.lopetaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.F4)));
-            this.lopetaToolStripMenuItem.Size = new System.Drawing.Size(240, 22);
+            this.lopetaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.lopetaToolStripMenuItem.Text = "Lopeta";
             this.lopetaToolStripMenuItem.Click += new System.EventHandler(this.lopetaToolStripMenuItem_Click);
             // 
@@ -157,7 +146,6 @@ namespace Notepad
         private System.Windows.Forms.ToolStripMenuItem uusiToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem avaaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tallennaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem tallennaNimelläToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem lopetaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem muotoiluToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kirjasinToolStripMenuItem;

@@ -13,7 +13,11 @@ Antero
 Leo
 Viljami
 Tapani
+<<<<<<< HEAD
 Väinö
+=======
+VÃ¤inÃ¶
+>>>>>>> 075c3158648bf91aee786882c2f9c89cf646b65c
 Emil
 Tapio
 Aatos
@@ -47,4 +51,8 @@ Anton
 Otso
 Eetu
 Henrik
+<<<<<<< HEAD
 Lauri
+=======
+Lauri
+>>>>>>> 075c3158648bf91aee786882c2f9c89cf646b65c
