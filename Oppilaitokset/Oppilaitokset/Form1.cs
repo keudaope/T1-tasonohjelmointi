@@ -87,13 +87,6 @@ namespace Oppilaitokset
             vastuuhloCB.DisplayMember = "VNimi";
         }
 
-        private void vastuuhloCB_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-            
-
-        }
-
         private void vastuuhloCB_TextChanged(object sender, EventArgs e)
         {
             titteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VTitteli"].ToString();

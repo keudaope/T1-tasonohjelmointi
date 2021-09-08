@@ -152,7 +152,6 @@ namespace Oppilaitokset
             this.vastuuhloCB.Name = "vastuuhloCB";
             this.vastuuhloCB.Size = new System.Drawing.Size(159, 33);
             this.vastuuhloCB.TabIndex = 7;
-            this.vastuuhloCB.SelectedIndexChanged += new System.EventHandler(this.vastuuhloCB_SelectedIndexChanged);
             this.vastuuhloCB.TextChanged += new System.EventHandler(this.vastuuhloCB_TextChanged);
             // 
             // sijaintiLB
