@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\bin\Debug\netcoreapp3.1\Oppilaitokset.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.AvainhenkilotForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaitokset\Oppilaitokset\obj\Debug\netcoreapp3.1\Oppilaitokset.genruntimeconfig.cache
