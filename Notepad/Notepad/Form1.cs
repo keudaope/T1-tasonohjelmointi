@@ -20,7 +20,6 @@ namespace Notepad
         {
             InitializeComponent();
         }
-        // Luodaan uusi tiedosto
         private void UusiTiedosto()
         {
             try
@@ -37,11 +36,7 @@ namespace Notepad
             }
             catch (Exception ex)
             {
-
-            }
-            finally
-            {
-
+                MessageBox.Show("Virhe: " + ex);
             }
         }
 
@@ -57,19 +52,13 @@ namespace Notepad
                     {
                         File.WriteAllText(saveFileDialog.FileName, TekstiTB.Text);
                     }
-                }
-                
+                }            
             }
             catch (Exception ex)
             {
-
-            }
-            finally
-            {
-
+                MessageBox.Show("Virhe: " + ex);
             }
         }
-
         private void AvaaTiedosto()
         {
             try
@@ -80,16 +69,10 @@ namespace Notepad
                 {
                     TekstiTB.Text = File.ReadAllText(openFileDialog.FileName);
                     Text = openFileDialog.FileName; // Tiedostonnimi näkyviin yläpalkkiin
-                }
-
-            }
+                }            }
             catch (Exception ex)
             {
                 MessageBox.Show("Virhe avattaessa tiedostoa!");
-            }
-            finally
-            {
-                openFileDialog = null;
             }
         }
 
@@ -99,23 +82,18 @@ namespace Notepad
         {
             fontDialog = new FontDialog();
         }
-
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             UusiTiedosto();
         }
-
         private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AvaaTiedosto();
         }
-
         private void tallennaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             TallennaTiedosto();
         }
-
-
         private void lopetaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             try
@@ -128,15 +106,10 @@ namespace Notepad
                 {
                     this.Close();
                 }
-
             }
             catch (Exception ex)
             {
-
-            }
-            finally
-            {
-
+                MessageBox.Show("Virhe: " + ex);
             }
         }
 
@@ -151,12 +124,9 @@ namespace Notepad
             }
             catch (Exception ex)
             {
-
+                MessageBox.Show("Virhe: " + ex);
             }
-            finally
-            {
 
-            }
         }
     }
 }
