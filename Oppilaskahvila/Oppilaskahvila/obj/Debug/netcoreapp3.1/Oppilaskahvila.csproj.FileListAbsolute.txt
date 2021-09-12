@@ -1,0 +1,17 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\bin\Debug\netcoreapp3.1\Oppilaskahvila.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.Properties.Resources.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.genruntimeconfig.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Oppilaskahvila\Oppilaskahvila\obj\Debug\netcoreapp3.1\Oppilaskahvila.RuokalistaForm.resources

@@ -1,0 +1,17 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.ruokalistaForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.Properties.Resources.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\bin\Debug\netcoreapp3.1\Kahvila.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Kahvila\Kahvila\obj\Debug\netcoreapp3.1\Kahvila.genruntimeconfig.cache
