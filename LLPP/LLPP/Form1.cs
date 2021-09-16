@@ -12,7 +12,7 @@ namespace LLPP
 {
     public partial class Form1 : Form
     {
-        ASIAKAS asiakas = new ASIAKAS();
+        OPISKELIJA opiskelija = new OPISKELIJA();
         public Form1()
         {
             InitializeComponent();
@@ -20,7 +20,7 @@ namespace LLPP
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            TietotauluDG.DataSource = asiakas.haeAsiakkaat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void TyhjennaBT_Click(object sender, EventArgs e)
@@ -47,7 +47,7 @@ namespace LLPP
             }
             else
             {
-                Boolean lisaaAsiakas = asiakas.lisaaAsiakas(enimi, snimi, puhelin, email,oNro);
+                Boolean lisaaAsiakas = opiskelija.lisaaOpiskelija(enimi, snimi, puhelin, email,oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Uusi opiskelija lisätty onnistuneesti", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -57,7 +57,7 @@ namespace LLPP
                     MessageBox.Show("Uutta opiskelijaa ei pystytty lisäämään", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            TietotauluDG.DataSource = asiakas.haeAsiakkaat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void PaivitaBT_Click(object sender, EventArgs e)
@@ -75,7 +75,7 @@ namespace LLPP
             }
             else
             {
-                Boolean lisaaAsiakas = asiakas.muokkaaAsiakasta(oid, enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Opiskelija päivitetty onnistuneesti", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -85,7 +85,7 @@ namespace LLPP
                     MessageBox.Show("Opiskelijaa ei pystytty päivittämään", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            TietotauluDG.DataSource = asiakas.haeAsiakkaat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void TietotauluDG_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -101,9 +101,9 @@ namespace LLPP
         private void PoistaBT_Click(object sender, EventArgs e)
         {
             String ktunnus = IdTB.Text;
-            if (asiakas.poistaAsiakas(ktunnus))
+            if (opiskelija.poistaOpiskelija(ktunnus))
             {
-                TietotauluDG.DataSource = asiakas.haeAsiakkaat();
+                TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
                 MessageBox.Show("Opiskelija poistettu onnistuneesti", "Opiskelijan poisto", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
