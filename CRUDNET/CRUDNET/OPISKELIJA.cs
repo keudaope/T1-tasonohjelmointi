@@ -19,10 +19,10 @@ namespace CRUDNET
     {
         YHDISTA yhteys = new YHDISTA();
         // Luodaan funktio, jonka avulla lisätään uusi opiskelija
-
+        
         public DataTable asiakaslista()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT AsiakasId, Concat(Etunimi, ' ',Sukunimi) AS Kokonimi FROM asiakkaat", yhteys.otaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT oid, Concat(etunimi, ' ',sukunimi) AS Kokonimi FROM yhteystiedot", yhteys.otaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
             // Lisätään Kokonimi-kenttä vastaukseen

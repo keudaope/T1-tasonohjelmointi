@@ -29,6 +29,8 @@ namespace CRUDNET
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.idTB = new System.Windows.Forms.TextBox();
             this.enimiTB = new System.Windows.Forms.TextBox();
             this.snimiTB = new System.Windows.Forms.TextBox();
@@ -160,10 +162,22 @@ namespace CRUDNET
             // 
             // Tietotaulu
             // 
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.Tietotaulu.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.Tietotaulu.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.Tietotaulu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.Tietotaulu.Location = new System.Drawing.Point(17, 185);
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.Tietotaulu.DefaultCellStyle = dataGridViewCellStyle2;
+            this.Tietotaulu.Location = new System.Drawing.Point(0, 196);
             this.Tietotaulu.Name = "Tietotaulu";
-            this.Tietotaulu.Size = new System.Drawing.Size(1063, 289);
+            this.Tietotaulu.RowTemplate.Height = 35;
+            this.Tietotaulu.Size = new System.Drawing.Size(1095, 289);
             this.Tietotaulu.TabIndex = 12;
             this.Tietotaulu.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Tietotaulu_CellClick);
             // 
