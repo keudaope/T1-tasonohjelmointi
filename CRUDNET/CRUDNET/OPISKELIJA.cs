@@ -38,6 +38,7 @@ namespace CRUDNET
         {
             String ktunnus = enimi.Substring(0, 3).ToLower() + snimi.Substring(0, 5).ToLower();
             String salis = salasana();
+            String salattu = Encrypt(salis);
             MySqlCommand komento = new MySqlCommand();
             String lisayskysely = "INSERT INTO yhteystiedot " +
                 "(etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero, ktunnus, salasana) " +
@@ -51,8 +52,8 @@ namespace CRUDNET
             komento.Parameters.Add("@eml", MySqlDbType.VarChar).Value = email;
             komento.Parameters.Add("@ono", MySqlDbType.UInt32).Value = onro;
             komento.Parameters.Add("@usr", MySqlDbType.VarChar).Value = ktunnus;
-            komento.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = salis;
-            MessageBox.Show("Käyttäjätunnuksesi on " + ktunnus + "\nSalasanasi on " + salis + "\nkirjoita nämä visusti talteen");
+            komento.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = salattu;
+            MessageBox.Show("Käyttäjätunnuksesi on " + ktunnus + "\nSalasanasi on " + salis + "\nSalattuna se on" + salattu +"\nkirjoita nämä visusti talteen");
 
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
@@ -123,7 +124,9 @@ namespace CRUDNET
             komento.Connection = yhteys.otaYhteys();
             //@oid
             komento.Parameters.Add("@oid", MySqlDbType.UInt32).Value = ktunnus;
-
+            String salattu = "rIcQwyLOwjxbi7JdVNulwTvPETORgfcGwtuPsvQAuVc=";
+            String salasana = Decrypt(salattu);
+            MessageBox.Show(salasana + "");
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
             {
@@ -138,9 +141,6 @@ namespace CRUDNET
         }
         public String salasana()
         {
-            /*string EncryptedString = EncryptText(stringtoEncrypt, "Password");
-
-             string DecryptedString = DecryptText(EncryptedString, "Password"); */
             char[] merkkijono = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0' };
             String ssana = "";
             Random r =  new Random();
@@ -150,98 +150,65 @@ namespace CRUDNET
                 ssana += merkkijono[rInt];
             }
             return ssana;
-        }   
-
-        private string EncryptText(string Password)
-        {
-            // We are now going to create an instance of the Rihndael class. 
-            RijndaelManaged RijndaelCipher = new RijndaelManaged();
-
-            // First we need to turn the input strings into a byte array.
-            byte[] PlainText = System.Text.Encoding.Unicode.GetBytes(Password);
-
-            // We are using salt to make it harder to guess our key
-            // using a dictionary attack.
-            byte[] Salt = Encoding.ASCII.GetBytes(Password.Length.ToString());
-
-            // The (Secret Key) will be generated from the specified password and salt.
-            PasswordDeriveBytes SecretKey = new PasswordDeriveBytes(Password, Salt);
-
-            // Create a encryptor from the existing SecretKey bytes.
-            // We use 32 bytes for the secret key 
-            // (the default Rijndael key length is 256 bit = 32 bytes) and
-            // then 16 bytes for the IV (initialization vector),
-            // (the default Rijndael IV length is 128 bit = 16 bytes)
-            ICryptoTransform Encryptor = RijndaelCipher.CreateEncryptor(SecretKey.GetBytes(32), SecretKey.GetBytes(16));
-
-            // Create a MemoryStream that is going to hold the encrypted bytes 
-            MemoryStream memoryStream = new MemoryStream();
-
-            // Create a CryptoStream through which we are going to be processing our data. 
-            // CryptoStreamMode.Write means that we are going to be writing data
-            // to the stream and the output will be written in the MemoryStream
-            // we have provided. (always use write mode for encryption)
-            CryptoStream cryptoStream = new CryptoStream(memoryStream, Encryptor, CryptoStreamMode.Write);
-
-            // Start the encryption process.
-            cryptoStream.Write(PlainText, 0, PlainText.Length);
-
-            // Finish encrypting.
-            cryptoStream.FlushFinalBlock();
-
-            // Convert our encrypted data from a memoryStream into a byte array.
-            byte[] CipherBytes = memoryStream.ToArray();
-
-            // Close both streams.
-            memoryStream.Close();
-            cryptoStream.Close();
-
-            // Convert encrypted data into a base64-encoded string.
-            // A common mistake would be to use an Encoding class for that.
-            // It does not work, because not all byte values can be
-            // represented by characters. We are going to be using Base64 encoding
-            // That is designed exactly for what we are trying to do. 
-
-            string EncryptedData = Convert.ToBase64String(CipherBytes);
-
-            // Return encrypted string.
-            return EncryptedData;
         }
-        private static string DecryptText(string InputText, string Password)
+        private string Encrypt(string clearText)
         {
-
-            RijndaelManaged RijndaelCipher = new RijndaelManaged();
-            byte[] EncryptedData = Convert.FromBase64String(InputText);
-            byte[] Salt = Encoding.ASCII.GetBytes(Password.Length.ToString());
-            PasswordDeriveBytes SecretKey = new PasswordDeriveBytes(Password, Salt);
-
-            // Create a decryptor from the existing SecretKey bytes.
-            ICryptoTransform Decryptor = RijndaelCipher.CreateDecryptor(SecretKey.GetBytes(32), SecretKey.GetBytes(16));
-
-            MemoryStream memoryStream = new MemoryStream(EncryptedData);
-
-            // Create a CryptoStream. (always use Read mode for decryption).
-            CryptoStream cryptoStream = new CryptoStream(memoryStream, Decryptor, CryptoStreamMode.Read);
-
-            // Since at this point we don't know what the size of decrypted data
-            // will be, allocate the buffer long enough to hold EncryptedData;
-            // DecryptedData is never longer than EncryptedData.
-            byte[] PlainText = new byte[EncryptedData.Length];
-
-            // Start decrypting.
-            int DecryptedCount = cryptoStream.Read(PlainText, 0, PlainText.Length);
-
-            memoryStream.Close();
-            cryptoStream.Close();
-
-            // Convert decrypted data into a string.
-            string DecryptedData = Encoding.Unicode.GetString(PlainText, 0, DecryptedCount);
-
-            // Return decrypted string. 
-            return DecryptedData;
+            string EncryptionKey = "MAKV2SPBNI99212";
+            // .Unicode = Gets an encoding for the UTF-16 format using the little endian byte order.
+            // .GetBytes = When overridden in a derived class, encodes all the characters in the specified string into a sequence of bytes.
+            byte[] clearBytes = Encoding.Unicode.GetBytes(clearText);
+            // Aes = Represents the abstract base class from which all implementations of the Advanced Encryption Standard (AES) must inherit
+            // .Create = Creates a cryptographic object that is used to perform the symmetric algorithm.
+            using (Aes encryptor = Aes.Create())
+            {
+                // Rfc2898DeriveBytes = Implements password-based key derivation functionality, PBKDF2, by using a pseudo-random number generator based on HMACSHA1.
+                Rfc2898DeriveBytes pdb = new Rfc2898DeriveBytes(EncryptionKey, new byte[] { 0x49, 0x76, 0x61, 0x6e, 0x20, 0x4d, 0x65, 0x64, 0x76, 0x65, 0x64, 0x65, 0x76 });
+                // .Key = Gets or sets the secret key for the symmetric algorithm.
+                // .IV = Gets or sets the initialization vector (IV) for the symmetric algorithm. 
+                encryptor.Key = pdb.GetBytes(32);
+                encryptor.IV = pdb.GetBytes(16);
+                using (MemoryStream ms = new MemoryStream())
+                {
+                    // CryptoStream = Defines a stream that links data streams to cryptographic transformations.
+                    // .CreateEncryptor() = Creates a symmetric encryptor object with the current Key property and initialization vector (IV).
+                    using (CryptoStream cs = new CryptoStream(ms, encryptor.CreateEncryptor(), CryptoStreamMode.Write))
+                    {
+                        cs.Write(clearBytes, 0, clearBytes.Length);
+                        cs.Close();
+                    }
+                    clearText = Convert.ToBase64String(ms.ToArray());
+                }
+            }
+            return clearText;
         }
-
-
-
+        private string Decrypt(string cipherText)
+        {
+            string EncryptionKey = "MAKV2SPBNI99212";
+            // .FromBase64String = Converts a CryptoStream from base 64.
+            byte[] cipherBytes = Convert.FromBase64String(cipherText);
+            // Aes = Represents the abstract base class from which all implementations of the Advanced Encryption Standard (AES) must inherit
+            // .Create = Creates a cryptographic object that is used to perform the symmetric algorithm.
+            using (Aes encryptor = Aes.Create())
+            {
+                // Rfc2898DeriveBytes = Implements password-based key derivation functionality, PBKDF2, by using a pseudo-random number generator based on HMACSHA1.
+                Rfc2898DeriveBytes pdb = new Rfc2898DeriveBytes(EncryptionKey, new byte[] { 0x49, 0x76, 0x61, 0x6e, 0x20, 0x4d, 0x65, 0x64, 0x76, 0x65, 0x64, 0x65, 0x76 });
+                // .Key = Gets or sets the secret key for the symmetric algorithm.
+                // .IV = Gets or sets the initialization vector (IV) for the symmetric algorithm. 
+                encryptor.Key = pdb.GetBytes(32);
+                encryptor.IV = pdb.GetBytes(16);
+                using (MemoryStream ms = new MemoryStream())
+                {
+                    // CryptoStream = Defines a stream that links data streams to cryptographic transformations.
+                    // .CreateEncryptor() = Creates a symmetric encryptor object with the current Key property and initialization vector (IV).
+                    using (CryptoStream cs = new CryptoStream(ms, encryptor.CreateDecryptor(), CryptoStreamMode.Write))
+                    {
+                        cs.Write(cipherBytes, 0, cipherBytes.Length);
+                        cs.Close();
+                    }
+                    cipherText = Encoding.Unicode.GetString(ms.ToArray());
+                }
+            }
+            return cipherText;
+        }
     }
 }
