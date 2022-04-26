@@ -1,0 +1,10 @@
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\bin\Debug\Prototyyppi.exe.config
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\bin\Debug\Prototyyppi.exe
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\bin\Debug\Prototyyppi.pdb
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.csprojAssemblyReference.cache
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.Properties.Resources.resources
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.csproj.GenerateResource.cache
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.exe
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.pdb
+C:\Users\jyrili\Source\Repos\Prototyyppi\Prototyyppi\obj\Debug\Prototyyppi.palauteFM.resources
