@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b3b108e-6fed-45a1-9f94-c228c4573427": {
+      "ProjectGuid": "0b3b108e-6fed-45a1-9f94-c228c4573427",
+      "DisplayName": "CRUD-testaus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

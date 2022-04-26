@@ -102,7 +102,10 @@ namespace CRUDNET
 
         private void YllapitoForm_Load(object sender, EventArgs e)
         {
-            //Tietotaulu.DataSource = opiskelija.haeOpiskelijat();
+            Tietotaulu.DataSource = opiskelija.haeOpiskelijat();
+            Tietotaulu.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCells);
+            var datagridview = new DataGridView();
+            datagridview.RowTemplate.MinimumHeight = 125;
         }
 
         private void Tietotaulu_CellClick(object sender, DataGridViewCellEventArgs e)
