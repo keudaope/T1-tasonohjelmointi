@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\bin\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.AvainhenkilotForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\OppilaitostenYhteystiedot\OppilaitostenYhteystiedot\obj\Debug\netcoreapp3.1\OppilaitostenYhteystiedot.genruntimeconfig.cache

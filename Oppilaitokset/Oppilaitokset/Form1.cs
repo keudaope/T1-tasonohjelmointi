@@ -19,13 +19,33 @@ namespace Oppilaitokset
         {
             InitializeComponent();
         }
-
         private void AvainhenkilotForm_Load(object sender, EventArgs e)
         {
             taytaOppilaitosTaulukko();
             oppilaitoksetCB.DataSource = oppilaitos;
             oppilaitoksetCB.DisplayMember = "ONimi";
             taytaVastuuHenkilotTaulukko();
+        }
+
+        private void oppilaitoksetCB_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string viite = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OID"].ToString();
+            katuosoiteLB.Text = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OKatuosoite"].ToString();
+            PostinumeroLB.Text = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OPostinumero"].ToString();
+            PostitoimipaikkaLB.Text = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OPostitoimipaikka"].ToString();
+            PuhelinLB.Text = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OPuhelin"].ToString();
+
+            yhteys = vastuuHenkilot.Select("OID =" + viite).CopyToDataTable();
+            vastuuhloCB.DataSource = yhteys;
+            vastuuhloCB.DisplayMember = "VNimi";
+        }
+
+        private void vastuuhloCB_TextChanged(object sender, EventArgs e)
+        {
+            titteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VTitteli"].ToString();
+            sijaintiLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSijainti"].ToString();
+            emailLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSahkoposti"].ToString();
+            phoneLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VPuhelin"].ToString();
         }
 
         private void taytaOppilaitosTaulukko()
@@ -74,6 +94,7 @@ namespace Oppilaitokset
             vastuuHenkilot.Rows.Add(4, "Maarit Flinck", "Asianhallintapäällikkö", "Hallinto- ja johtamispalvelut", "maarit.flinck@keuda.fi", "0500 837 357");
         }
         
+<<<<<<< HEAD
         private void oppilaitoksetCB_SelectedIndexChanged(object sender, EventArgs e)
         {
             string viite = oppilaitos.Rows[oppilaitoksetCB.SelectedIndex]["OID"].ToString();
@@ -94,5 +115,8 @@ namespace Oppilaitokset
             emailLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSahkoposti"].ToString();
             phoneLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VPuhelin"].ToString();
         }
+=======
+        
+>>>>>>> 4c73bf0db9b5d9c5f121046d7b226ea7b7ebc5a1
     }
 }

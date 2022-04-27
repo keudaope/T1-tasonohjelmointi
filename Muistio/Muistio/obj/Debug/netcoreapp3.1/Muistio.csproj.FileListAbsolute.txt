@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\bin\Debug\netcoreapp3.1\Muistio.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.NotepadForm.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Muistio\Muistio\obj\Debug\netcoreapp3.1\Muistio.genruntimeconfig.cache

@@ -42,7 +42,6 @@ namespace Oppilaitokset
             this.label7 = new System.Windows.Forms.Label();
             this.vastuuhloCB = new System.Windows.Forms.ComboBox();
             this.sijaintiLB = new System.Windows.Forms.Label();
-            this.oidLB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -150,7 +149,7 @@ namespace Oppilaitokset
             this.vastuuhloCB.FormattingEnabled = true;
             this.vastuuhloCB.Location = new System.Drawing.Point(248, 116);
             this.vastuuhloCB.Name = "vastuuhloCB";
-            this.vastuuhloCB.Size = new System.Drawing.Size(159, 33);
+            this.vastuuhloCB.Size = new System.Drawing.Size(208, 33);
             this.vastuuhloCB.TabIndex = 7;
             this.vastuuhloCB.TextChanged += new System.EventHandler(this.vastuuhloCB_TextChanged);
             // 
@@ -163,21 +162,11 @@ namespace Oppilaitokset
             this.sijaintiLB.TabIndex = 12;
             this.sijaintiLB.Text = "Sijainti";
             // 
-            // oidLB
-            // 
-            this.oidLB.AutoSize = true;
-            this.oidLB.Location = new System.Drawing.Point(13, 315);
-            this.oidLB.Name = "oidLB";
-            this.oidLB.Size = new System.Drawing.Size(63, 25);
-            this.oidLB.TabIndex = 13;
-            this.oidLB.Text = "label3";
-            // 
             // AvainhenkilotForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(752, 403);
-            this.Controls.Add(this.oidLB);
+            this.ClientSize = new System.Drawing.Size(515, 320);
             this.Controls.Add(this.sijaintiLB);
             this.Controls.Add(this.phoneLB);
             this.Controls.Add(this.emailLB);
@@ -216,7 +205,6 @@ namespace Oppilaitokset
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ComboBox vastuuhloCB;
         private System.Windows.Forms.Label sijaintiLB;
-        private System.Windows.Forms.Label oidLB;
     }
 }
 

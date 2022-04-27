@@ -1,0 +1,16 @@
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.exe
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.deps.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.runtimeconfig.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.runtimeconfig.dev.json
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\bin\Debug\netcoreapp3.1\CRUD-testaus.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.csproj.AssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD_testaus.Form1.resources
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.AssemblyInfoInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.AssemblyInfo.cs
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.dll
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.pdb
+C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\CRUD-testaus\CRUD-testaus\obj\Debug\netcoreapp3.1\CRUD-testaus.genruntimeconfig.cache

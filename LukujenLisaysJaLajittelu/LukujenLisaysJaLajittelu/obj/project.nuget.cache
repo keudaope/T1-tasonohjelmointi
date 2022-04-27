@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+Phs0A690Y14XB7qxNKg0dS4PWacQmd0wuUKiQ2h5Loawu95OxT/VsyntZTovaOFBWuw063hKSoJT0cAWI9U8A==",
+  "dgSpecHash": "SvBlWOvcR3FTR8Hf0s+0BtLhCndfHSv0nXubt1DWdKptM0o73dLyyhZxjuNUf8AHpGYD0px3QGgGlFpdZmLFzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jyrilindroos\\source\\repos\\T1-tasonohjelmointi\\LukujenLisaysJaLajittelu\\LukujenLisaysJaLajittelu\\LukujenLisaysJaLajittelu.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Okehittaja\\source\\repos\\T1-tasonohjelmointi\\LukujenLisaysJaLajittelu\\LukujenLisaysJaLajittelu\\LukujenLisaysJaLajittelu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

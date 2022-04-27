@@ -7,3 +7,13 @@ C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesproj
 C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.csproj.CoreCompileInputs.cache
 C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.exe
 C:\Users\jyrilindroos\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.pdb
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\bin\Debug\Viidesprojekti.exe.config
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\bin\Debug\Viidesprojekti.exe
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\bin\Debug\Viidesprojekti.pdb
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.Properties.Resources.resources
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.csproj.GenerateResource.cache
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.exe
+C:\Users\Okehittaja\source\repos\T1-tasonohjelmointi\Viidesprojekti\Viidesprojekti\obj\Debug\Viidesprojekti.pdb

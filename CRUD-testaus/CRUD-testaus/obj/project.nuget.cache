@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3ldhI9+Y3lL6b+lNTrY3IwV5Y6OmB7MK8FqAMLPpsMaJZoIkgIcO8/WdIfwLwH8mefQcy4h5KC3EbfDArmA8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Okehittaja\\source\\repos\\T1-tasonohjelmointi\\CRUD-testaus\\CRUD-testaus\\CRUD-testaus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Okehittaja\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
